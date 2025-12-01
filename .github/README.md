@@ -4,7 +4,6 @@ GitHub Activity Generator [![Gitter](https://badges.gitter.im/github-activity-ge
 A script that helps you *instantly* generate a beautiful GitHub Contributions Graph
 for the last year.
 
- 
 ## ⚠ Disclaimer
 
 This script is for educational purposes and demonstrating GitHub mechanics. It should not be used to misrepresent professional contributions or coding activity.
